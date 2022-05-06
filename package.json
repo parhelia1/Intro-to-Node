@@ -1,7 +1,7 @@
 {
     "name": "nodefiles",
-    "version": "10.15.0",
-    "description": "My Test app",
+    "version": "1.0.0",
+    "description": "Test\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[\u001b[3~\u001b[C\u001b[D\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cest node",
     "main": "server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
         "type": "git",
         "url": "git+https://github.com/parhelia1/Intro-to-Node.git"
     },
-    "author": "Slobodan Krstic",
+    "author": "Krstic",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/parhelia1/Intro-to-Node/issues"
